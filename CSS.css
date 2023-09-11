@@ -1,0 +1,28 @@
+.forma1{
+    background-color: #70c3ff; 
+    height: 100vh; 
+    width: 100%;
+    display: inline-block;
+}
+.forma2{
+    background-color: #bfff00; 
+    height: 75%; 
+    width: 75%;
+}
+.forma3{
+    color: white; 
+    background-color: rgb(10, 89, 215); 
+    font-size: 45px; 
+    font-family: serif;
+    font-weight: bold;
+}
+.forma4{
+    height: 50vw; 
+    width: 50%; 
+    background-color: rgb(231, 0, 0);
+}
+.forma5{
+    width: 75vw; 
+    height: 50%; 
+    background-color: rgb(129, 212, 190);
+}
